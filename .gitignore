@@ -1,0 +1,5 @@
+# Ignore specific file
+secret.txt
+
+# Ignore entire directory
+node_modules/
