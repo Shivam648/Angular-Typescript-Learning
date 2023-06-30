@@ -1,0 +1,12 @@
+# Set specific line ending behavior for different file types
+*.txt     text            # Normalize text files to LF line endings
+*.md      text            # Normalize Markdown files to LF line endings
+*.js      text eol=lf     # Force LF line endings for JavaScript files
+*.css     text eol=crlf   # Force CRLF line endings for CSS files
+
+
+# pattern1   option1
+# pattern2   option2
+# ...
+# ```
+# The `pattern` is a file name pattern like `*.txt` or `*.md`. The `option` is one of the following:

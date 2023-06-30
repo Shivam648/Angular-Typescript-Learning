@@ -22,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/Shivam648/Angular-Typescript-Learning/issues"
   },
-  "homepage": "https://github.com/Shivam648/Angular-Typescript-Learning#readme",
-  "dependencies": {
-    "typescript": "^5.1.3"
-  }
+  "homepage": "https://github.com/Shivam648/Angular-Typescript-Learning#readme"
 }
